@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Idani27
 - 👀 I’m interested in Data Analytics, Data Science, AI and Machine Learning
-- 🌱 I’m currently learning Data Analytics
 - 📫 You can email me at singoidani7@gmail.com
 
 <!---
